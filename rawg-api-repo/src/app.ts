@@ -15,5 +15,5 @@ app.get("/health", (_req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Todo bien, todo correcto y yo que me alegto. Gateway corriendo en http://localhost:${PORT}`);
+  console.log(`Todo bien, todo correcto y yo que me alegro. Gateway corriendo en http://localhost:${PORT}`);
 });
